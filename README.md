@@ -12,6 +12,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" width="40" alt="typescript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" width="40" alt="typescript logo"  />
 </div>
 
 ## TOOLS
@@ -22,4 +24,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" height="40" width="40" alt="virtualbox logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" width="40" alt="git logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" width="40" alt="nodejs logo"  />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" width="40" alt="nodejs logo"  />
 </div>
